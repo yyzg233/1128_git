@@ -5,5 +5,4 @@ hello
 3rd
 4th
 5ve
-6th
-new funchtion
+new function by dev
