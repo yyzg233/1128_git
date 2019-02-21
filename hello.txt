@@ -10,3 +10,4 @@ new function by test
 dev
 test
 remote
+origin
